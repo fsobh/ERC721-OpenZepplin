@@ -1,0 +1,15 @@
+{
+  "name": "hardhat-project",
+  "author": "Fadel Sobh",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "@openzeppelin/contracts": "^4.3.3",
+    "dotenv": "^10.0.0",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.5.1",
+    "hardhat": "^2.6.8"
+  }
+}
