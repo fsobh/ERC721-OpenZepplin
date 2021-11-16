@@ -3,14 +3,14 @@
         <img  src="https://ethereumico.io/wp-content/uploads/2019/09/erc721-300x300.png" alt="Open RPG">
     </a>
     <a href="/#" title="OpenRPG">
-        <img  src="https://miro.medium.com/max/806/1*IGourfMFRc77Qm5eqFl0AQ.png" alt="Open Zepplin">
+        <img height="100px" src="https://miro.medium.com/max/806/1*IGourfMFRc77Qm5eqFl0AQ.png" alt="Open Zepplin">
     </a>
 </p>
 
 <div align="center">
 
 
-[![Solidity](https://img.shields.io/badge/Solidity-%5E0.6.0-red)](https://img.shields.io/badge/Solidity-%5E0.8.0-red)   [![JavaScript](https://img.shields.io/badge/JavaScript-ES9-%23FFFF00)](https://img.shields.io/badge/JavaScript-ES9-%23FFFF00)    [![Node](https://img.shields.io/badge/NodeJS-v10.16.2-brightgreen)](https://img.shields.io/badge/NodeJS-v10.16.2-brightgreen)   [![Rinkeby](https://img.shields.io/badge/Rinkeby-test--net-%23FFA500)](https://img.shields.io/badge/Rinkeby-test--net-%23FFA500)     [![Ethers](https://img.shields.io/badge/Ethers-5.1.3-%239370DB)](https://img.shields.io/badge/Ethers-5.1.3-%239370DB)   [![HardHat](https://img.shields.io/badge/Hardhat-compiler-red)](https://img.shields.io/badge/Hardhat-compiler-red) [![OpenZepplin](https://img.shields.io/badge/OpenZeeplin-%5E0.8.0-cyan)]
+[![Solidity](https://img.shields.io/badge/Solidity-%5E0.6.0-red)](https://img.shields.io/badge/Solidity-%5E0.8.0-red)   [![JavaScript](https://img.shields.io/badge/JavaScript-ES9-%23FFFF00)](https://img.shields.io/badge/JavaScript-ES9-%23FFFF00)    [![Node](https://img.shields.io/badge/NodeJS-v10.16.2-brightgreen)](https://img.shields.io/badge/NodeJS-v10.16.2-brightgreen)   [![Rinkeby](https://img.shields.io/badge/Rinkeby-test--net-%23FFA500)](https://img.shields.io/badge/Rinkeby-test--net-%23FFA500)     [![Ethers](https://img.shields.io/badge/Ethers-5.1.3-%239370DB)](https://img.shields.io/badge/Ethers-5.1.3-%239370DB)   [![HardHat](https://img.shields.io/badge/Hardhat-compiler-red)](https://img.shields.io/badge/Hardhat-compiler-red) ![OpenZepplin](https://img.shields.io/badge/OpenZeeplin-%5E0.8.0-cyan)
     
 
 </div>
